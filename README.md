@@ -1,2 +1,2 @@
-# Predicting-Forest-Fires
-A machine learning project that tries to predict forest fires using several different algorithms and methods.
+# Using R to predict forest fires
+## And explore the efficacy of different machine learning algorithms and encoding strategies
